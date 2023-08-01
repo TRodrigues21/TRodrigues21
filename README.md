@@ -1,7 +1,8 @@
 <h1 align="left"> <samp>Hello Dev, bem vindo ao meu repositório. </h1> 
-  
-- Cursando Engenharia de Software na Universidade Federal do Amazonas
-- Estagiário na Bemol Digital - Manaus, Brasil
+
+<h2> 🤓  Sobre </h2>
+<li> Cursando Engenharia de Software na Universidade Federal do Amazonas </li>
+<li> Estagiário na Bemol Digital - Manaus, Brasil </li>
 
 <h2>  👨‍💻  Tecnologias </h2>
 <div>
