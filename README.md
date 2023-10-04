@@ -1,6 +1,12 @@
-<h1 align="left"> <samp>Hello Dev, bem vindo ao meu repositório. </h1> 
-
-<h2> 🤓  Sobre </h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2> 🤓  Sobre </h2>
 <li> Cursando Engenharia de Software na Universidade Federal do Amazonas </li>
 <li> Estagiário na Bemol Digital - Manaus, Brasil </li>
 
@@ -20,15 +26,15 @@
 
 <h2> 🙋‍♂️  Contact me </h2>
 <div>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/>
-  <a href="https://www.instagram.com/trodrigues.santos/" target="blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
-  <a href="https://www.linkedin.com/in/thiago-rodrigues22/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="25"/>
+    <a href="https://t.me/T_Rodrigues18" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/> </a>
+    <a href="https://api.whatsapp.com/send?phone=55984241913" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/> </a>
+    <a href="https://www.instagram.com/trodrigues.santos/" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25"/></a>
+    <a href="https://www.linkedin.com/in/thiago-rodrigues22/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25"/>
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="25"/>
 </div>
 
 
-
-
+</body>
+</html>
