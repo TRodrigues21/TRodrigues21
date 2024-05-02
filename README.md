@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h2> 🤓  Sobre </h2>
+    <h2> About me 🤓 </h2>
 <li> Software Engineer UFAM/ICET</li>
 <li> Software Engineer Trainee na Bemol Digital - Manaus, Brasil </li>
 <li> Software Developer .NET </li>
 
-<h2>  👨‍💻  Tecnologias </h2>
+<h2> Technologies 👨‍💻 </h2>
 <div>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" height="25"/>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
 </div>
 
-<h2> 🙋‍♂️  Contact me </h2>
+<h2> Contact me 🙋‍♂️ </h2>
 <div>
     <a href="https://t.me/T_Rodrigues18" target="_blank"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25"/> </a>
     <a href="https://api.whatsapp.com/send?phone=55984241913" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="25"/> </a>
