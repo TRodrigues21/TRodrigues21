@@ -3,12 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
     <h2> 🤓  Sobre </h2>
-<li> Cursando Engenharia de Software na Universidade Federal do Amazonas </li>
-<li> Estagiário na Bemol Digital - Manaus, Brasil </li>
+<li> Engenheiro de Software </li>
+<li> Dev na Bemol Digital - Manaus, Brasil </li>
 
 <h2>  👨‍💻  Tecnologias </h2>
 <div>
