@@ -6,8 +6,9 @@
 </head>
 <body>
     <h2> 🤓  Sobre </h2>
-<li> Engenheiro de Software </li>
-<li> Dev na Bemol Digital - Manaus, Brasil </li>
+<li> Software Engineer UFAM/ICET</li>
+<li> Software Engineer Trainee na Bemol Digital - Manaus, Brasil </li>
+<li> Software Developer .NET </li>
 
 <h2>  👨‍💻  Tecnologias </h2>
 <div>
